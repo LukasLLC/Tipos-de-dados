@@ -1,0 +1,18 @@
+Atividade 1 
+#include <stdio.h>
+
+int main()
+{
+    int inteiro = 10;
+    float flutuante = 3.333;
+    char caracter = 'A';
+    double duplo = 9.76;
+    
+    printf("Valor inteiro %d\n", inteiro);
+    printf("Valor float %.2f\n", flutuante);
+    printf("Valor char %c\n", caracter);
+    printf("Valor duplo %.2f\n", duplo);
+    return 0;
+}
+
+Atividade 2 
